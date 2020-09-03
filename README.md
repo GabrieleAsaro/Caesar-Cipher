@@ -34,5 +34,5 @@ You can understand how Julius Caesar cipher works.
 - [x] Learn a really old cipher
 - [x] Easy to understand
 
-## Demostration
+## Demonstration
 <img src="https://i.imgur.com/QIApIn8.png" alt="Giulio Cesare">
